@@ -4,12 +4,13 @@
     ngorsecka@gmail.com
     (+221) 77 - 433 - 97 - 16
     PERFECTIONNEZ CE MODELE ET FAITES MOI UN RETOUR
-    POUR TOUTE MODIFICATION VISANT A L'AMELIORER.
+    POUR TOUTE MODIFICATION VISANT A AMELIORER
+    CE DERNIER (GIT).
     VOUS ETES LIBRE DE TOUTE UTILISATION.
   ===================================================*/
-
-	
-	require_once 'libs/autoload/Autoloader.class.php';
-  use libs\system\Bootstrap;
-  $bootstrap = new Bootstrap();
+    function welcome_params(){
+        return array(
+                    'welcome_controller' => 'WelcomeController'
+                    );
+    }
 ?>

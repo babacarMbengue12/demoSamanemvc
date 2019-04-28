@@ -7,9 +7,20 @@
     POUR TOUTE MODIFICATION VISANT A L'AMELIORER.
     VOUS ETES LIBRE DE TOUTE UTILISATION.
   ===================================================*/
+    use libs\system\Controller;
+    class WelcomeController extends Controller{
 
-	
-	require_once 'libs/autoload/Autoloader.class.php';
-  use libs\system\Bootstrap;
-  $bootstrap = new Bootstrap();
+        public function __construct(){
+            parent::__construct();
+        }
+        /** 
+         *methode ou url
+         */
+        public function index(){
+            
+            return $this->view->load("welcome/index");
+			
+        }
+		
+    }
 ?>

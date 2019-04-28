@@ -5,12 +5,73 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Ngor Seck",
+            "email": "ngorsecka@gmail.com"
+        },
+        {
             "name": "ngorseckframework",
             "email": "samanemvc@gmail.com"
+        },
+        {
+            "name": "Babacar mbengue",
+            "email": "babacar.mbengue10@gmail.com"
+        },
+        {
+            "name": "Babacar mbengue",
+            "email": "babacar.mbengue10@gmail.com"
+        },
+        {
+            "name": "Magatte war",
+            "email": "magattewar@gmail.com"
+        },
+        {
+            "name": "Mbaye Sokhna THIAM",
+            "email": "mbayesokhnathiam@gmail.com"
+        },
+        {
+            "name": "Mbaye Sokhna THIAM",
+            "email": "mbayesokhnathiam@gmail.com"
+        },
+        {
+            "name": "Mbaye Sokhna THIAM",
+            "email": "mbayesokhnathiam@gmail.com"
+        },
+        {
+            "name": "khadim Ndao",
+            "email": "khadimndao5991@gmail.com"
+        },
+        {
+            "name": "Boubacar Soumare",
+            "email": "boubasoum2011@gmail.com"
+        },
+        {
+            "name": "Mohamed Johnson",
+            "email": "mohamedjohnson31@gmail.com"
+        },
+        {
+            "name": "Djibril Sow",
+            "email": "djibrilsow532@gmail.com"
+        },
+        {
+            "name": "Adonai Nangui",
+            "email": "adonainangui03@gmail.com"
+        },
+        {
+            "name": "Dr Bassirou Ngom",
+            "email": "samanemvc@gmail.com"
+        },
+        {
+            "name": "Mahamat Abakar Mahamat",
+            "email": "mahamatabakarmht@gmail.com"
         }
     ],
     "minimum-stability": "dev",
-       "require": {
-           "smarty/smarty": "~3.1"
+    "require": {
+        "doctrine/orm": "^2.6.2"
+    },
+    "autoload": {
+        "psr-0": {"": "src/entities/"},
+        "psr-4": {"Babacar\\": "src/Router/"}
     }
+    
 }
