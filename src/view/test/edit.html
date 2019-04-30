@@ -25,7 +25,7 @@
 			<div class="panel panel-info">
 				<div class="panel-heading">BIENVENUE A VOTRE MODELE MVC</div>
 				<div class="panel-body">
-					<form method="post" action="{$url_base}Test/update">
+					<form method="post" action="{Helper::url('test.update',['id'=>$test->getId()])}">
 						<div class="form-group">
 							<label class="control-label">ID du test</label>
 							<input class="form-control" type="text" name="id" id="id" value="{if isset($test)} {$test->getId()} {/if}"/>
@@ -40,7 +40,7 @@
 						</div>
 						<div class="form-group">
 							<input class="btn btn-success" type="submit" name="modifier" value="Modifier"/>
-							<a class="btn btn-primary" href="{$url_base}Test/liste">Retour</a>
+							<a class="btn btn-primary" href="{Helper::url('test.list')}">Retour</a>
 						</div>
 					</form>
 				</div>

@@ -15,9 +15,16 @@ class Controller{
         public function __construct(){
             $this->view = new View();
         }
+
+    /**
+     * @param       $path
+     * @param array $variables
+     * @return bool
+     * j'ai r'ajouter cette methode pour appeler directement $this->load()
+     */
         public function load($path,array $variables = [])
         {
-            $this->view->load($path,$variables);
+            return $this->view->load($path,$variables);
         }
     }
 ?>

@@ -9,7 +9,6 @@
   ===================================================*/
 namespace libs\system;
 use Babacar\Router\Generator;
-use Babacar\Router\Router;
 
 class View{
 		private $tpl;
@@ -28,6 +27,7 @@ class View{
                     $this->chargerDonnees($args[0], $args[1]);
                     break;
             }
+            return true;
         }
 		
         private function chargerDonnees($page, $data = array()){
@@ -35,8 +35,13 @@ class View{
             $data['url_base'] = base_url();
             $this->tpl->assign($data);
 
+            /**
+             * pour acceder a la classe Generator permettant de generer une url a partir de son nom
+             * Helper est l'alias pour generer une url
+             * @example pour generer une url de nom root
+             * Helper::url('root')
+             */
             $this->tpl->registerClass('Helper',Generator::class);
-//            $this->tpl->assignGlobal('helper',Generator::getInstance());
             if(file_exists($page_directory))
             {
     			$this->tpl->display($page_directory);

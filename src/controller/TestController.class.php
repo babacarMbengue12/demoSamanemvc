@@ -32,7 +32,7 @@
             return $this->view->load("test/index");
         }
 
-        public function getID($id)
+        public function getId($id)
         {
             $data['ID'] = $id;
 
@@ -96,9 +96,15 @@
             return $this->liste();
         }
 
-        public function show($id,$test1,$test2)
+        /**
+         * @param $id
+         * @param $test1
+         * @param $test2
+         * @return bool
+         */
+        public function show(int $id,string $test1,string $test2,$opt)
         {
-            return $this->load('test/show',compact('test1','id','test2'));
+            return $this->load('test/show',compact('test1','id','test2','opt'));
         }
         public function delete($id){
             /** 

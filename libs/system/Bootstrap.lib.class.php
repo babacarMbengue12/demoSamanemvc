@@ -9,16 +9,34 @@
   ===================================================*/
 namespace libs\system;
 use Babacar\Router\Router;
+use Babacar\Router\RouteResult;
+
 class Bootstrap{
         public function __construct(){
+            /**
+             * pour initialiser et enregistrer les routes
+             */
             require_once __DIR__.'/../../config/routes.php';
             $model = new Model();
+            /**
+             * si $_GET['url'] n'est pas definit on est a la racine
+             */
             $url = $_GET['url'] ?? '/';
 			$error = new SM_Error();
+            /**
+             * @var $route|null RouteResult
+             * analiser l'url
+             */
             $route = Router::match($url);
 
+            /**
+             * si l'url match
+             */
 			if(!is_null($route)){
 
+                /**
+                 * on a [0 => nom_du_controller,1=>nom_du_method]
+                 */
 				$url = explode('@',$route->getAction());
 
                 $file = 'src/controller/' . $url[0] . 'Controller.class.php';
@@ -35,6 +53,9 @@ class Bootstrap{
                         }
                         if(method_exists($controller, $url[1])){
 							require_once "PHP_DB_Connection.lib.class.php";
+                            /**
+                             * Pour appeler la methode et les passer les parameters
+                             */
                             call_user_func_array([$controller,$url[1]],$route->getParameters());
                         }else{
                             $msg = "La méthode <b>".$url[1]."()</b> n'existe pas dans le controller <b>".$url[0]."</b>!";
