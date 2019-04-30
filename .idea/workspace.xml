@@ -32,7 +32,11 @@
         <entry file="file://$PROJECT_DIR$/libs/Router/RouteGenerator.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
+<<<<<<< HEAD
               <caret line="67" column="82" selection-start-line="67" selection-start-column="82" selection-end-line="67" selection-end-column="82" />
+=======
+              <caret line="67" column="81" selection-start-line="67" selection-start-column="81" selection-end-line="67" selection-end-column="81" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
               <folding>
                 <element signature="e#127#180#0#PHP" expanded="true" />
               </folding>
@@ -40,65 +44,121 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="RouteRegexParameter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/Router/RouteRegexParameter.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="500">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+=======
       <file leaf-file-name="Generator.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/Router/Generator.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
               <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="Generator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/Router/Generator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+=======
       <file leaf-file-name="Router.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/Router/Router.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
               <caret line="102" column="34" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="Router.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/Router/Router.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="102" column="34" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/test/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="284">
               <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+=======
+      <file leaf-file-name="RouteRegexParameter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libs/Router/RouteRegexParameter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="liste.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/test/liste.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-246">
               <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+=======
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-324">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="TestController.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controller/TestController.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="305">
               <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+=======
+      <file leaf-file-name="liste.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/test/liste.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="get_id.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/test/get_id.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="268">
               <caret line="40" column="87" lean-forward="true" selection-start-line="40" selection-start-column="87" selection-end-line="40" selection-end-column="87" />
+=======
+      <file leaf-file-name="TestController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/TestController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </state>
           </provider>
         </entry>
@@ -106,8 +166,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/welcome/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="156">
               <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="64" />
+=======
+            <state relative-caret-position="262">
+              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </state>
           </provider>
         </entry>
@@ -127,6 +192,10 @@
         <option value="$PROJECT_DIR$/libs/system/smarty/libs/plugins/function.path.php" />
         <option value="$PROJECT_DIR$/libs/system/smarty/libs/plugins/function.url.php" />
         <option value="$PROJECT_DIR$/src/Router/Generator.php" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/view/test/get_id.html" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/libs/system/Bootstrap.lib.class.php" />
@@ -141,11 +210,18 @@
         <option value="$PROJECT_DIR$/src/view/test/index.html" />
         <option value="$PROJECT_DIR$/src/view/welcome/index.html" />
         <option value="$PROJECT_DIR$/libs/Router/Generator.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/view/test/liste.html" />
         <option value="$PROJECT_DIR$/libs/Router/RouteRegexParameter.php" />
         <option value="$PROJECT_DIR$/src/view/test/get_id.html" />
         <option value="$PROJECT_DIR$/config/routes.php" />
         <option value="$PROJECT_DIR$/src/controller/TestController.class.php" />
+=======
+        <option value="$PROJECT_DIR$/src/controller/TestController.class.php" />
+        <option value="$PROJECT_DIR$/config/routes.php" />
+        <option value="$PROJECT_DIR$/src/view/test/liste.html" />
+        <option value="$PROJECT_DIR$/libs/Router/RouteRegexParameter.php" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
       </list>
     </option>
   </component>
@@ -158,7 +234,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="30" />
     <option name="y" value="21" />
     <option name="width" value="1304" />
@@ -181,12 +257,25 @@
             <path>
               <item name="samaneV1.9" type="b2602c69:ProjectViewProjectNode" />
               <item name="samaneV1.9" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="samaneV1.9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samaneV1.9" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
               <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samaneV1.9" type="b2602c69:ProjectViewProjectNode" />
               <item name="samaneV1.9" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="Router" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
             </path>
             <path>
               <item name="samaneV1.9" type="b2602c69:ProjectViewProjectNode" />
@@ -259,21 +348,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556426334431</updated>
+<<<<<<< HEAD
       <workItem from="1556426336857" duration="20934000" />
+=======
+      <workItem from="1556426336857" duration="19522000" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="20934000" />
+=======
+    <option name="totallyTimeSpent" value="19522000" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32954547" />
       <window_info anchor="right" id="Database" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -445,6 +542,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+<<<<<<< HEAD
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/test/get_id.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="39" column="80" lean-forward="true" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
         </state>
       </provider>
     </entry>
@@ -459,6 +566,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -466,6 +574,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
+=======
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
         </state>
       </provider>
     </entry>
@@ -478,6 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/welcome/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="156">
           <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="64" />
         </state>
@@ -487,6 +598,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+=======
+        <state relative-caret-position="262">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/Router/Generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
         </state>
       </provider>
     </entry>
@@ -497,6 +619,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/libs/Router/Generator.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -518,11 +641,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/libs/Router/RouteMatcher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.php">
+    <entry file="file://$PROJECT_DIR$/src/controller/TestController.class.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/Router/RouteGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="284">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
@@ -546,6 +683,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+=======
+        <state relative-caret-position="172">
+          <caret line="67" column="81" selection-start-line="67" selection-start-column="81" selection-end-line="67" selection-end-column="81" />
+          <folding>
+            <element signature="e#127#180#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/06140f6ba4fa9bf35f20d61b119cc2d3ea7237be_0.file.liste.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/test/liste.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/Router/RouteRegexParameter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
         </state>
       </provider>
     </entry>

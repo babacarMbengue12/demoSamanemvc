@@ -32,7 +32,11 @@
             return $this->view->load("test/index");
         }
 
+<<<<<<< HEAD
         public function getId($id,$id2)
+=======
+        public function getId($id)
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
         {
             $data['ID'] = $id;
             $data['ID2'] = $id2;

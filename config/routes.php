@@ -17,7 +17,11 @@ try {
     R::get('/',"welcome@index",'root');
     R::get('/test',"test@index",'test');
     //le parametre id doit etre un entier
+<<<<<<< HEAD
     R::get('/(id<[0-9]>)/(?id2)', "test@getId", 'test.id');
+=======
+    R::get('/(id)', "test@getId", 'test.id');
+>>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
     R::get('/test/list',"test@liste",'test.list');
     /**
      * enregistrer les routes pour l'ajout
