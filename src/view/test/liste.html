@@ -18,7 +18,7 @@
 				<!-- l'appel de {$url_base} vous permet de recupérer le chemin de votre site web  -->
 				<li><a href="{Helper::url('root')}">Accueil</a></li>
 				<li><a href="{Helper::url('test')}">Menu page test</a></li>
-				<li><a href="{Helper::url('test.id',['id'=>1])}">Menu page test 2</a></li>
+				<li><a href="{Helper::url('test.id',['id'=> 1])}">Menu page test 2</a></li>
 				<li><a href="{Helper::url('test.list')}">Menu page test liste</a></li>
 			</ul>
 		</div>
@@ -50,8 +50,8 @@
 										<td>{$test->getId()}</td>
 										<td>{$test->getValeur1()}</td>
 										<td>{$test->getValeur2()}</td>
-										<td><a href="{Helper::url('test.edit',[ 'id' => $test->getId()])}">Supprimer</a></td>
-										<td><a href="{Helper::url('test.delete',[ 'id' => $test->getId()])}">Editer</a></td>
+										<td><a href="{Helper::url('test.delete',[ 'id' => $test->getId()])}">Supprimer</a></td>
+										<td><a href="{Helper::url('test.edit',[ 'id' => $test->getId()])}">Editer</a></td>
 										<td><a href="{Helper::url('test.show',[ 'id' => $test->getId(),'test1' => $test->getValeur1(),'test2' => $test->getValeur2()])}">Voire</a></td>
 									</tr>
 								{/foreach}
