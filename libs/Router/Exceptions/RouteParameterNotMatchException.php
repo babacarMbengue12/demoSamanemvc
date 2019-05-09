@@ -13,9 +13,9 @@ use Throwable;
 
 class RouteParameterNotMatchException extends RouteException
 {
-    public function __construct($m,$p,$r, int $code = 0, Throwable $previous = null)
+    public function __construct($parameter,$key,$r, int $code = 0, Throwable $previous = null)
     {
-        parent::__construct("Le parametre $m pattern $p ne match pas '$r' ", $code, $previous);
+        parent::__construct("Le parametre $parameter pattern $key ne match pas '$r' ", $code, $previous);
     }
 
 }

@@ -30,16 +30,10 @@ class RouteRegexParameter extends Parameter
    }
 
    public function match(?string $subject){
-<<<<<<< HEAD
           if(!is_null($subject))
               $subject = trim($subject);
 
           return preg_match('/^'.$this->pattern.'$/',$subject);
-=======
-
-
-          return preg_match('/'.$this->pattern.'/',$subject);
->>>>>>> 1ddb9431961378b33e8f7c9e7c6cfa2a4910b4f3
    }
     /**
      * @return string
